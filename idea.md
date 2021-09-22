@@ -18,6 +18,8 @@
 
 - 为什么 GAN 做 VC 效果不好？
 
+- TTS, TTS + 风格迁移 => 分解出语音转换
+
 - 研究目标：通用评估系统，实用、可定制、实时、轻量化 VC
 
 - papers with code: https://paperswithcode.com/task/voice-conversion
